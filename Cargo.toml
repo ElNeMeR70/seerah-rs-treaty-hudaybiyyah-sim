@@ -1,0 +1,10 @@
+[package]
+name = "seerah-rs-treaty-hudaybiyyah-sim"
+version = "1.0.0"
+edition = "2021"
+description = "Treaty of Hudaybiyyah (6 AH) & Prophetic Diplomatic Epistles Analyzer"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "seerah_rs_treaty_hudaybiyyah_sim"
+path = "main.rs"
